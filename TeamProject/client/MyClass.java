@@ -12,6 +12,8 @@ public class MyClass {
 	    System.out.println("3rd Print statement");
 	    
 	    System.out.println("4th Print Statement");
+	    
+	    System.out.println("%th Print statement");
 
 	  }
 
